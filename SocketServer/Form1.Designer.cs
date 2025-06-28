@@ -50,7 +50,7 @@
             // 
             // txtPort
             // 
-            this.txtPort.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPort.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPort.Location = new System.Drawing.Point(187, 30);
             this.txtPort.Maximum = new decimal(new int[] {
             9999,
@@ -63,7 +63,7 @@
             0,
             0});
             this.txtPort.Name = "txtPort";
-            this.txtPort.Size = new System.Drawing.Size(75, 26);
+            this.txtPort.Size = new System.Drawing.Size(75, 24);
             this.txtPort.TabIndex = 0;
             this.txtPort.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtPort.Value = new decimal(new int[] {
@@ -95,11 +95,11 @@
             // textBox1
             // 
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(63, 30);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(73, 26);
+            this.textBox1.Size = new System.Drawing.Size(73, 24);
             this.textBox1.TabIndex = 4;
             this.textBox1.Text = "127.0.0.1";
             // 

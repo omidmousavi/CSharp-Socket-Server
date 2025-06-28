@@ -149,11 +149,6 @@ namespace SocketServer
                 client.Close();
 
             server.Stop();
-
-
-            //serverThread.Abort();
-            //server.Stop();
-
         }
     }
 }
