@@ -1,0 +1,9 @@
+C:\Users\Omid\Desktop\CSharp-Socket-Server\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Omid\Desktop\CSharp-Socket-Server\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Omid\Desktop\CSharp-Socket-Server\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Omid\Desktop\CSharp-Socket-Server\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Omid\Desktop\CSharp-Socket-Server\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+C:\Users\Omid\Desktop\CSharp-Socket-Server\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\Omid\Desktop\CSharp-Socket-Server\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+C:\Users\Omid\Desktop\CSharp-Socket-Server\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Omid\Desktop\CSharp-Socket-Server\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
