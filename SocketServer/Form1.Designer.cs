@@ -244,7 +244,7 @@
             this.Controls.Add(this.btnSend);
             this.Controls.Add(this.listBoxClients);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Socket Server";
             ((System.ComponentModel.ISupportInitialize)(this.txtPort)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
